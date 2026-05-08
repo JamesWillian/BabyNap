@@ -1,4 +1,4 @@
-package app.jammes.babynap.ui.theme
+package app.jammes.babynap.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

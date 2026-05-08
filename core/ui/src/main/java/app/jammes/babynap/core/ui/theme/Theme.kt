@@ -1,6 +1,5 @@
-package app.jammes.babynap.ui.theme
+package app.jammes.babynap.core.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

@@ -25,4 +25,5 @@ dependencyResolutionManagement {
 rootProject.name = "BabyNap"
 include(":app")
 include(":core:domain")
- 
+include(":core:ui")
+include(":feature:home")
